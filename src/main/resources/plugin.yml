@@ -1,0 +1,7 @@
+name: AVMStaff
+version: 1.0
+main: me.avm.staff.AVMStaff
+api-version: '1.21'
+commands:
+  create:
+    description: Create AVM items
